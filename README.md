@@ -9,7 +9,4 @@ The system schedules a meeting for the specified time and checks for conflicts w
 * Find Free Slots: Finds available free time slots for scheduling a meeting between two participants.
 * Check Participant Availability: Check conflicts for any existing meetings for a list of participants.
 
-## Getting Started
-### Step 1: Clone the repository
-git clone 
-cd Calender_Assistant
+  
